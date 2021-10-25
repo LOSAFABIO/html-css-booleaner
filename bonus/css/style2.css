@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    width: 1800px;
+}
+
+header{
+    height: 100px;
+    background-image: url(img/pattern.png);
+    background-size: 430px 200px;
+    background-color: #339af0;
+}
+
+#titolo{
+    width: 180px;
+    height: 100px;
+    padding-top: 20px;
+    margin-left: 200px;
+}
+
+h1{
+    font-size: 30px;
+    margin-bottom: 0px; 
+}
+
+#sottotitolo{
+    margin-top: 0px;
+}
+
+#testoblu{
+    color: #3eb8ff;
+}
+
+#testoimg{
+    font-size: small;
+    margin-top: 0;
+}
+
+span.evidenziato{
+    background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+thead{
+    background-color: #339af0;
+    height: 5px;
+}
+
+table tbody tr{
+    height: 70px;
+}
+
+.lungtab{
+    width: 200px;
+}
+
+.azzurro{
+    background-color: rgb(164, 221, 248);
+}
+
+#piedipagina{
+    margin-bottom: 0;
+    margin-top: 30;
+}
+
+main{
+    margin-bottom: 30px;
+    margin-left: 200px;
+    width: 65%;
+}
+
+footer{
+    margin-left: 200px;
+}
